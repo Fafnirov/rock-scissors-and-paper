@@ -19,5 +19,5 @@
 3. В терминале (командной строке) запустите:
 
 ```bash
-python rps_simple.py
-
+python rcp.py
+```
